@@ -11,7 +11,7 @@
 		APRON_RIGHT: '180 0 180 120 0 120 180 0'
 	};
 	const COLOR = {
-		BACKGROUND: '#212529',
+		BACKGROUND: '#9400D3',
 		OUTER: '#495057',
 		INNER: '#15aabf',
 		BUMPER: '#fab005',
